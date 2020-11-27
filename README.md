@@ -21,3 +21,8 @@ Citation
 
 Chen, L., Murata, M. Enhancing network modularity to mitigate catastrophic forgetting. Appl Netw Sci 5, 94 (2020). https://doi.org/10.1007/s41109-020-00332-9
 
+-------
+Author
+-------
+
+[Lu CHEN](https://sites.google.com/view/l-chen)
