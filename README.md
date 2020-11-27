@@ -15,6 +15,8 @@ Usage
 
 > python3 calc_cnn_modularity.py 'hogehoge.h5'
 
+'hogehoge.h5' is in [TensorFlow SavedModel format](https://www.tensorflow.org/guide/keras/save_and_serialize?hl=en).
+
 ---------
 Citation
 ---------
