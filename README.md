@@ -1,6 +1,7 @@
 # modularity_cnn
+------------------------------
 Calculating Modularity of CNN
-
+------------------------------
 
 ![image](https://github.com/luchen-cn/modularity_cnn/blob/main/cnn_convert.jpg?rqw=true)
 
